@@ -1,0 +1,28 @@
+# Dependencias
+node_modules/
+
+# Archivos de entorno
+.env
+
+# Archivos de macOS
+.DS_Store
+
+# Archivos de Windows
+thumbs.db
+
+# Archivos de registro
+*.log
+*.out
+*.pid
+
+# Configuraciones de editores
+.vscode/
+.idea/
+
+# Archivos compilados
+dist/
+build/
+
+# Cobertura de pruebas
+coverage/
+.nyc_output/
